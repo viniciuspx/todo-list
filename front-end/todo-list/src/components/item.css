@@ -1,0 +1,11 @@
+.item {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    margin-left: 40px;
+}
